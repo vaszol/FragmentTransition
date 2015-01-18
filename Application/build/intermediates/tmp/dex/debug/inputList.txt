@@ -1,0 +1,7 @@
+/home/vas/AndroidStudioProjects/FragmentTransition/Application/build/intermediates/classes/debug
+/home/vas/AndroidStudioProjects/FragmentTransition/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-a42a2880080f231e5c570b5b9fad32a21289955e.jar
+/home/vas/AndroidStudioProjects/FragmentTransition/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-87e838e687d1aae04cd17000eabd69c798090819.jar
+/home/vas/AndroidStudioProjects/FragmentTransition/Application/build/intermediates/pre-dexed/debug/classes-bc4ac72efa7a4ad427b6cc32482265665f9165b0.jar
+/home/vas/AndroidStudioProjects/FragmentTransition/Application/build/intermediates/pre-dexed/debug/classes-606833257d92887053822f8d3ca147d2d6d7184c.jar
+/home/vas/AndroidStudioProjects/FragmentTransition/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-e83246e047deba60f64daf7da331ba51d3720fe8.jar
+/home/vas/AndroidStudioProjects/FragmentTransition/Application/build/intermediates/pre-dexed/debug/classes-dec0b7ac213dd0617febbb690caa15cdab275771.jar
